@@ -383,5 +383,539 @@
     "risco": "Extremo (tóxico e corrosivo).",
     "aplicacao": "Gravação de vidros ou indústria eletrônica.",
     "alerta": "Use equipamento de proteção completo e treinamento."
+  },
+  "cafe+limao": {
+    "descricao": "Café (cafeína) + suco de limão (ácido cítrico).",
+    "efeito": "Acidez aumentada, pode ajudar na digestão de gorduras.",
+    "risco": "Baixo (pode causar azia em pessoas sensíveis).",
+    "aplicacao": "Bebida emagrecedora ou energética matinal.",
+    "alerta": "Evite se tiver problemas gástricos."
+  },
+  "mel+canela": {
+    "descricao": "Mel (açúcares naturais) + canela em pó (cinamaldeído).",
+    "efeito": "Propriedades anti-inflamatórias e antimicrobianas combinadas.",
+    "risco": "Nenhum (natural e seguro).",
+    "aplicacao": "Remédio caseiro para resfriados, chás ou culinária.",
+    "alerta": "Diabéticos devem moderar o mel."
+  },
+  "iodo+amido": {
+    "descricao": "Solução de iodo (I₂) + amido (polissacarídeo).",
+    "efeito": "Formação de complexo azul-escuro característico.",
+    "risco": "Baixo (teste químico padrão).",
+    "aplicacao": "Teste de presença de amido em alimentos ou experimentos.",
+    "alerta": "Não ingira a solução de iodo."
+  },
+  "oleo+soda": {
+    "descricao": "Óleo vegetal + soda cáustica (NaOH).",
+    "efeito": "Saponificação, produzindo sabão e glicerina.",
+    "risco": "Moderado (soda cáustica é corrosiva).",
+    "aplicacao": "Produção artesanal de sabão.",
+    "alerta": "Use luvas e óculos de proteção."
+  },
+  "coca+mentos": {
+    "descricao": "Refrigerante de cola + balas Mentos.",
+    "efeito": "Erupção violenta de espuma devido à nucleação rápida de CO₂.",
+    "risco": "Baixo (desconfortável se ingerido junto).",
+    "aplicacao": "Experimentos de química divertida.",
+    "alerta": "Não ingerir juntos - risco de engasgo."
+  },
+  "banana+leite": {
+    "descricao": "Banana (amido e açúcares) + leite (proteínas).",
+    "efeito": "Mistura nutritiva rica em potássio e cálcio.",
+    "risco": "Nenhum (combinação saudável).",
+    "aplicacao": "Vitaminas, smoothies ou lanches pós-treino.",
+    "alerta": "Pessoas com intolerância à lactose devem evitar."
+  },
+  "argila+vinagre": {
+    "descricao": "Argila bentonita + vinagre de maçã.",
+    "efeito": "Reação ácida liberando minerais da argila.",
+    "risco": "Baixo (uso tópico).",
+    "aplicacao": "Máscaras faciais esfoliantes e purificantes.",
+    "alerta": "Não aplicar em feridas abertas."
+  },
+  "bicarbonato+limao": {
+    "descricao": "Bicarbonato de sódio + suco de limão.",
+    "efeito": "Efervescência intensa liberando CO₂, formando citrato de sódio.",
+    "risco": "Baixo (antiácido natural).",
+    "aplicacao": "Alívio de azia, limpeza ou desodorização.",
+    "alerta": "Não usar em excesso - pode causar alcalose."
+  },
+  "carvao+agua": {
+    "descricao": "Carvão ativado + água.",
+    "efeito": "Adsorção de impurezas e toxinas pela superfície porosa.",
+    "risco": "Baixo (purificador natural).",
+    "aplicacao": "Filtração de água ou tratamento de intoxicações.",
+    "alerta": "Pode interferir na absorção de medicamentos."
+  },
+  "gengibre+mel": {
+    "descricao": "Gengibre ralado + mel.",
+    "efeito": "Propriedades anti-inflamatórias, antibacterianas e expectorantes.",
+    "risco": "Nenhum (remédio natural).",
+    "aplicacao": "Tratamento de gripes, resfriados e dor de garganta.",
+    "alerta": "Evite em caso de gastrite severa."
+  },
+  "clara+acucar": {
+    "descricao": "Clara de ovo + açúcar refinado.",
+    "efeito": "Formação de merengue quando batido (proteína aerada).",
+    "risco": "Nenhum (ingrediente culinário).",
+    "aplicacao": "Confeitaria, bolos e sobremesas.",
+    "alerta": "Use ovos frescos para evitar salmonela."
+  },
+  "cloreto+prata": {
+    "descricao": "Cloreto de sódio (NaCl) + nitrato de prata (AgNO₃).",
+    "efeito": "Precipitação de cloreto de prata branco (AgCl).",
+    "risco": "Moderado (nitrato de prata é irritante).",
+    "aplicacao": "Experimento de precipitação em química.",
+    "alerta": "Use luvas - prata pode manchar a pele."
+  },
+  "aloe+mel": {
+    "descricao": "Gel de aloe vera + mel.",
+    "efeito": "Hidratação e cicatrização potencializadas.",
+    "risco": "Nenhum (natural e seguro).",
+    "aplicacao": "Tratamento de queimaduras, hidratação de pele.",
+    "alerta": "Teste em pequena área antes se tiver alergia."
+  },
+  "oleo+alho": {
+    "descricao": "Óleo de oliva + alho picado.",
+    "efeito": "Infusão de compostos sulfurados aromáticos no óleo.",
+    "risco": "Baixo (risco de botulismo se armazenado incorretamente).",
+    "aplicacao": "Tempero culinário ou óleo medicinal.",
+    "alerta": "Refrigere e use em até 1 semana."
+  },
+  "terra+agua": {
+    "descricao": "Solo argiloso + água.",
+    "efeito": "Formação de lama ou argamassa.",
+    "risco": "Nenhum.",
+    "aplicacao": "Construção natural, cerâmica, terapias com argila.",
+    "alerta": "Verifique contaminantes no solo."
+  },
+  "curcuma+pimenta": {
+    "descricao": "Cúrcuma (curcumina) + pimenta preta (piperina).",
+    "efeito": "Piperina aumenta a biodisponibilidade da curcumina em até 2000%.",
+    "risco": "Nenhum (combinação benéfica).",
+    "aplicacao": "Suplementação anti-inflamatória e antioxidante.",
+    "alerta": "Evite em excesso se tiver úlceras."
+  },
+  "mostarda+agua": {
+    "descricao": "Mostarda em pó + água.",
+    "efeito": "Ativação da enzima mirosinase, liberando compostos picantes.",
+    "risco": "Baixo (irritante em contato prolongado).",
+    "aplicacao": "Cataplasmas terapêuticos ou condimento culinário.",
+    "alerta": "Não aplique em pele sensível por muito tempo."
+  },
+  "gelatina+abacaxi": {
+    "descricao": "Gelatina (colágeno) + abacaxi fresco (bromelina).",
+    "efeito": "Bromelina digere as proteínas, impedindo gelificação.",
+    "risco": "Nenhum (fenômeno natural).",
+    "aplicacao": "Experimento de enzimas proteolíticas.",
+    "alerta": "Use abacaxi cozido se quiser gelatina firme."
+  },
+  "sulfato+bario": {
+    "descricao": "Sulfato de sódio (Na₂SO₄) + cloreto de bário (BaCl₂).",
+    "efeito": "Precipitação de sulfato de bário branco (BaSO₄).",
+    "risco": "Alto (compostos de bário são tóxicos).",
+    "aplicacao": "Experimentos de precipitação ou raios-X (contraste).",
+    "alerta": "Compostos de bário solúveis são venenosos."
+  },
+  "essencia+alcool": {
+    "descricao": "Essências aromáticas + álcool etílico.",
+    "efeito": "Dissolução de compostos voláteis para criar perfumes.",
+    "risco": "Baixo (inflamável).",
+    "aplicacao": "Perfumaria artesanal ou aromaterapia.",
+    "alerta": "Mantenha longe de chamas."
+  },
+  "acucar+fogo": {
+    "descricao": "Açúcar (sacarose) + chama direta.",
+    "efeito": "Caramelização seguida de combustão (carbono).",
+    "risco": "Moderado (queimaduras por açúcar derretido).",
+    "aplicacao": "Caramelo em culinária ou demonstrações de oxidação.",
+    "alerta": "Açúcar derretido atinge temperaturas muito altas."
+  },
+  "proteina+acido": {
+    "descricao": "Proteína (clara de ovo) + ácido (vinagre ou limão).",
+    "efeito": "Desnaturação proteica, coagulação.",
+    "risco": "Nenhum.",
+    "aplicacao": "Culinária (poché de ovos) ou experimentos.",
+    "alerta": "Processo irreversível."
+  },
+  "cravo+laranja": {
+    "descricao": "Cravo-da-índia + casca de laranja.",
+    "efeito": "Liberação de óleos essenciais aromáticos.",
+    "risco": "Nenhum.",
+    "aplicacao": "Aromatizador natural de ambientes.",
+    "alerta": "Pode atrair insetos se deixado exposto."
+  },
+  "aspirina+cafeina": {
+    "descricao": "Ácido acetilsalicílico + cafeína.",
+    "efeito": "Potencialização do efeito analgésico.",
+    "risco": "Moderado (pode aumentar acidez estomacal).",
+    "aplicacao": "Medicamento combinado para dores de cabeça.",
+    "alerta": "Consulte médico antes de combinar regularmente."
+  },
+  "acucar+sal": {
+    "descricao": "Açúcar + sal (NaCl).",
+    "efeito": "Mistura de sabores doce e salgado.",
+    "risco": "Nenhum.",
+    "aplicacao": "Tempero equilibrado em culinária ou conservação.",
+    "alerta": "Hipertensos devem moderar o sal."
+  },
+  "batata+agua": {
+    "descricao": "Batata crua ralada + água.",
+    "efeito": "Liberação de amido na água.",
+    "risco": "Nenhum.",
+    "aplicacao": "Produção de amido ou receitas culinárias.",
+    "alerta": "Batata crua contém solanina em partes verdes."
+  },
+  "oleo+cera": {
+    "descricao": "Óleo mineral + cera de abelha.",
+    "efeito": "Formação de pomada ou bálsamo semissólido.",
+    "risco": "Nenhum.",
+    "aplicacao": "Cosméticos, pomadas labiais ou protetores.",
+    "alerta": "Teste para alergias antes do uso."
+  },
+  "sulfato+cobre": {
+    "descricao": "Sulfato de cobre (CuSO₄) + ferro metálico.",
+    "efeito": "Deposição de cobre sobre ferro (reação redox).",
+    "risco": "Moderado (sulfato de cobre é tóxico).",
+    "aplicacao": "Experimento de deslocamento de metais.",
+    "alerta": "Não ingira sulfato de cobre."
+  },
+  "coco+agua": {
+    "descricao": "Coco ralado + água quente.",
+    "efeito": "Extração de leite de coco rico em gorduras.",
+    "risco": "Nenhum.",
+    "aplicacao": "Culinária tropical, sobremesas ou bebidas.",
+    "alerta": "Refrigere o leite de coco para conservação."
+  },
+  
+  "agua+sal+gelo": {
+    "descricao": "Água + cloreto de sódio (NaCl) + gelo.",
+    "efeito": "Redução da temperatura para congelamento rápido (até -21°C).",
+    "risco": "Baixo (queimaduras por frio se manuseado sem proteção).",
+    "aplicacao": "Sorvetes artesanais, refrigeração de emergência.",
+    "alerta": "Use luvas térmicas para evitar lesões na pele."
+  },
+  "vinho+tinto+refrigerante": {
+    "descricao": "Vinho tinto + refrigerante de limão.",
+    "efeito": "Diluição do álcool e adição de gás carbônico.",
+    "risco": "Baixo (apenas altera sabor).",
+    "aplicacao": "Coquetel popular (sangria gaseificada).",
+    "alerta": "Consumo moderado, mesmo diluído."
+  },
+  "areia+cola": {
+    "descricao": "Areia fina + cola branca (PVA).",
+    "efeito": "Formação de massa moldável que seca dura.",
+    "risco": "Baixo (não tóxico, mas irrita olhos).",
+    "aplicacao": "Artesanato, esculturas, maquetes.",
+    "alerta": "Não ingerir e manter longe de crianças pequenas."
+  },
+  "azeite+alho+ervas": {
+    "descricao": "Azeite de oliva + alho fresco + ervas aromáticas.",
+    "efeito": "Infusão de sabores e compostos antioxidantes.",
+    "risco": "Baixo (risco de botulismo se armazenado errado).",
+    "aplicacao": "Tempero culinário ou molho para pães.",
+    "alerta": "Refrigere e use em até 1 semana."
+  },
+  "banana+aveia": {
+    "descricao": "Banana amassada + aveia em flocos.",
+    "efeito": "Mistura nutritiva rica em fibras e potássio.",
+    "risco": "Nenhum (alimento saudável).",
+    "aplicacao": "Bolos saudáveis, cookies ou mingau.",
+    "alerta": "Diabéticos devem moderar por conta dos açúcares."
+  },
+  "cafe+leite+canela": {
+    "descricao": "Café coado + leite + canela em pó.",
+    "efeito": "Bebida aromática com propriedades termogênicas.",
+    "risco": "Baixo (para intolerantes à lactose).",
+    "aplicacao": "Café da manhã energético.",
+    "alerta": "Pessoas sensíveis à cafeína devem moderar."
+  },
+  "cerveja+limao+sal": {
+    "descricao": "Cerveja clara + suco de limão + sal grosso.",
+    "efeito": "Bebida refrescante com equilíbrio ácido-salgado.",
+    "risco": "Moderado (contém álcool).",
+    "aplicacao": "Coquetel de verão (michelada).",
+    "alerta": "Consuma com moderação."
+  },
+  "chocolate+leite+marshmallow": {
+    "descricao": "Chocolate derretido + leite quente + marshmallow.",
+    "efeito": "Bebida doce cremosa com textura aveludada.",
+    "risco": "Baixo (alto teor de açúcar).",
+    "aplicacao": "Bebida reconfortante ou fondue.",
+    "alerta": "Diabéticos devem evitar."
+  },
+  "detergente+agua+amilase": {
+    "descricao": "Detergente líquido + água + enzima amilase.",
+    "efeito": "Remoção eficiente de manchas de amido.",
+    "risco": "Baixo (não inalar vapores).",
+    "aplicacao": "Limpeza de tecidos com amido.",
+    "alerta": "Use luvas para proteger as mãos."
+  },
+  "fermento+agua+acucar": {
+    "descricao": "Fermento biológico + água morna + açúcar.",
+    "efeito": "Ativação do fermento para produção de CO₂.",
+    "risco": "Nenhum.",
+    "aplicacao": "Panificação, produção de pães e massas.",
+    "alerta": "Água muito quente mata o fermento."
+  },
+  "gelo+sal+alcool": {
+    "descricao": "Gelo + sal de cozinha + álcool isopropílico.",
+    "efeito": "Resfriamento extremo (abaixo de -30°C).",
+    "risco": "Alto (queimaduras criogênicas).",
+    "aplicacao": "Banhos de resfriamento em laboratório.",
+    "alerta": "Use equipamento de proteção térmica."
+  },
+  "glicerina+agua+corante": {
+    "descricao": "Glicerina vegetal + água + corante alimentício.",
+    "efeito": "Solução densa e colorida para experimentos.",
+    "risco": "Nenhum (não tóxico).",
+    "aplicacao": "Demonstrações de densidade, lâmpadas de lava caseiras.",
+    "alerta": "Manuseie com cuidado para não derramar."
+  },
+  "hidroxido+agua+fenolftaleina": {
+    "descricao": "Hidróxido de sódio + água + fenolftaleína.",
+    "efeito": "Solução alcalina que fica rosa.",
+    "risco": "Moderado (soda cáustica é corrosiva).",
+    "aplicacao": "Experimento de indicadores ácido-base.",
+    "alerta": "Use luvas e óculos de segurança."
+  },
+  "iogurte+mel+granola": {
+    "descricao": "Iogurte natural + mel + granola.",
+    "efeito": "Alimento probiótico com fibras e energia.",
+    "risco": "Nenhum.",
+    "aplicacao": "Café da manhã saudável ou lanche.",
+    "alerta": "Diabéticos devem substituir mel por frutas."
+  },
+  "leite+chocolate+baunilha": {
+    "descricao": "Leite + chocolate em pó + essência de baunilha.",
+    "efeito": "Bebida achocolatada aromatizada.",
+    "risco": "Baixo (para intolerantes à lactose).",
+    "aplicacao": "Bebida infantil ou reconfortante.",
+    "alerta": "Açúcar em excesso pode ser prejudicial."
+  },
+  "limao+bicarbonato+agua": {
+    "descricao": "Suco de limão + bicarbonato de sódio + água.",
+    "efeito": "Efervescência e neutralização ácida.",
+    "risco": "Baixo (antiácido natural).",
+    "aplicacao": "Alívio de indigestão, limpeza doméstica.",
+    "alerta": "Não exceda uma colher de chá de bicarbonato."
+  },
+  "maizena+agua+corante": {
+    "descricao": "Amido de milho + água + corante.",
+    "efeito": "Formação de fluido não newtoniano.",
+    "risco": "Nenhum.",
+    "aplicacao": "Experimento científico de reologia.",
+    "alerta": "Não despeje no ralo da pia."
+  },
+  "mostarda+mel+vinagre": {
+    "descricao": "Mostarda em pó + mel + vinagre de maçã.",
+    "efeito": "Molho agridoce com propriedades anti-inflamatórias.",
+    "risco": "Nenhum.",
+    "aplicacao": "Tempero para saladas ou carnes.",
+    "alerta": "Pessoas com refluxo devem moderar."
+  },
+  "oleo+alecrim+alho": {
+    "descricao": "Azeite de oliva + alecrim fresco + alho.",
+    "efeito": "Infusão aromática com antioxidantes.",
+    "risco": "Baixo (armazenamento incorreto pode causar botulismo).",
+    "aplicacao": "Tempero culinário ou conservante natural.",
+    "alerta": "Refrigere e consuma rápido."
+  },
+  "papa+agua+sal": {
+    "descricao": "Farinha de trigo + água + sal.",
+    "efeito": "Formação de massa básica para modelar.",
+    "risco": "Nenhum (não tóxico).",
+    "aplicacao": "Brinquedo educativo, artesanato.",
+    "alerta": "Pode estragar se não secar completamente."
+  },
+  "polvilho+agua+sal": {
+    "descricao": "Polvilho azedo + água fervente + sal.",
+    "efeito": "Massa elástica para pão de queijo.",
+    "risco": "Nenhum.",
+    "aplicacao": "Culinária brasileira (pão de queijo).",
+    "alerta": "Água muito quente pode queimar."
+  },
+  "quinoa+agua+sal": {
+    "descricao": "Quinoa em grãos + água + sal marinho.",
+    "efeito": "Cozimento libera saponinas (espuma).",
+    "risco": "Nenhum.",
+    "aplicacao": "Alimento rico em proteínas completas.",
+    "alerta": "Lave bem a quinoa antes para remover saponinas."
+  },
+  "rum+coca+limao": {
+    "descricao": "Rum branco + refrigerante de cola + suco de limão.",
+    "efeito": "Coquetel doce e cítrico.",
+    "risco": "Moderado (álcool).",
+    "aplicacao": "Bebida social (Cuba Libre).",
+    "alerta": "Consumo responsável."
+  },
+  "sabao+glicerina+corante": {
+    "descricao": "Sabão base glicerinado + glicerina + corante.",
+    "efeito": "Formação de sabonete artesanal translúcido.",
+    "risco": "Baixo.",
+    "aplicacao": "Produção de sabonetes personalizados.",
+    "alerta": "Derreta em banho-maria para segurança."
+  },
+  "salvia+mel+agua": {
+    "descricao": "Chá de salvia + mel + água quente.",
+    "efeito": "Bebida calmante e expectorante.",
+    "risco": "Nenhum.",
+    "aplicacao": "Remédio caseiro para tosse e dor de garganta.",
+    "alerta": "Gestantes devem evitar salvia."
+  },
+  "soda+limao+sal": {
+    "descricao": "Água com gás + suco de limão + sal.",
+    "efeito": "Bebida hidratante com eletrólitos.",
+    "risco": "Baixo.",
+    "aplicacao": "Isotônico caseiro ou refresco.",
+    "alerta": "Pessoas com pressão alta devem moderar sal."
+  },
+  "tequila+laranja+canela": {
+    "descricao": "Tequila + suco de laranja + canela em pó.",
+    "efeito": "Coquetel frutado com sabor picante.",
+    "risco": "Moderado (álcool).",
+    "aplicacao": "Drink festivo.",
+    "alerta": "Consumo com moderação."
+  },
+  "urucum+oleo+sal": {
+    "descricao": "Semente de urucum triturada + óleo + sal.",
+    "efeito": "Extração de corante natural (anato).",
+    "risco": "Baixo.",
+    "aplicacao": "Corante alimentício, cosmético natural.",
+    "alerta": "Pode manchar tecidos."
+  },
+  "vinagre+agua+alecrim": {
+    "descricao": "Vinagre branco + água + alecrim fresco.",
+    "efeito": "Solução de limpeza aromática.",
+    "risco": "Baixo (ácido fraco).",
+    "aplicacao": "Limpeza ecológica de superfícies.",
+    "alerta": "Não use em mármore ou granito polido."
+  },
+  "whisky+gelo+agua": {
+    "descricao": "Whisky + cubos de gelo + água mineral.",
+    "efeito": "Diluição suave que libera aromas.",
+    "risco": "Moderado (álcool).",
+    "aplicacao": "Apreciação de whisky.",
+    "alerta": "Consumo responsável."
+  },
+  "xarope+agua+gas": {
+    "descricao": "Xarope de frutas + água + gás carbônico.",
+    "efeito": "Refrigerante caseiro.",
+    "risco": "Baixo (alto teor de açúcar).",
+    "aplicacao": "Bebida gaseificada artesanal.",
+    "alerta": "Diabéticos devem evitar."
+  },
+  "yerba+agua+gelo": {
+    "descricao": "Erva-mate + água fria + gelo.",
+    "efeito": "Bebida estimulante refrescante.",
+    "risco": "Baixo (contém cafeína).",
+    "aplicacao": "Mate gelado (tererê).",
+    "alerta": "Pode causar insônia se consumido à noite."
+  },
+  "zinco+acido+agua": {
+    "descricao": "Zinco metálico + ácido clorídrico diluído + água.",
+    "efeito": "Liberação de hidrogênio gasoso.",
+    "risco": "Moderado (corrosivo e inflamável).",
+    "aplicacao": "Demonstração de reação ácido-metal.",
+    "alerta": "Faça em área ventilada."
+  },
+  "acafrao+leite+mel": {
+    "descricao": "Açafrão-da-terra (cúrcuma) + leite quente + mel.",
+    "efeito": "Bebida anti-inflamatória (golden milk).",
+    "risco": "Nenhum.",
+    "aplicacao": "Remédio caseiro para imunidade.",
+    "alerta": "Pode manchar superfícies."
+  },
+  "bacardi+limao+agua": {
+    "descricao": "Rum Bacardi + suco de limão + água com gás.",
+    "efeito": "Coquetel refrescante e cítrico.",
+    "risco": "Moderado (álcool).",
+    "aplicacao": "Drink de verão (Daiquiri simplificado).",
+    "alerta": "Consuma com moderação."
+  },
+  "cacau+leite+acucar": {
+    "descricao": "Cacau em pó + leite quente + açúcar.",
+    "efeito": "Bebida achocolatada caseira.",
+    "risco": "Baixo.",
+    "aplicacao": "Bebida reconfortante ou para crianças.",
+    "alerta": "Modere o açúcar para dietas saudáveis."
+  },
+  "diesel+oleo+gasolina": {
+    "descricao": "Diesel + óleo lubrificante + gasolina.",
+    "efeito": "Mistura que pode danificar motores.",
+    "risco": "Alto (inflamável e poluente).",
+    "aplicacao": "Nenhuma recomendada.",
+    "alerta": "Não misture combustíveis."
+  },
+  "eucalipto+agua+sal": {
+    "descricao": "Folhas de eucalipto + água fervente + sal.",
+    "efeito": "Vapor com propriedades descongestionantes.",
+    "risco": "Baixo (queimaduras por vapor).",
+    "aplicacao": "Inalação caseira para resfriados.",
+    "alerta": "Mantenha o rosto a distância segura."
+  },
+  "farinha+agua+fermento": {
+    "descricao": "Farinha de trigo + água + fermento biológico.",
+    "efeito": "Massa de pão em crescimento.",
+    "risco": "Nenhum.",
+    "aplicacao": "Panificação caseira.",
+    "alerta": "Deixe crescer em local aquecido."
+  },
+  "gengibre+limao+agua": {
+    "descricao": "Gengibre ralado + suco de limão + água.",
+    "efeito": "Bebida termogênica e refrescante.",
+    "risco": "Baixo (para estômagos sensíveis).",
+    "aplicacao": "Chá gelado ou shot matinal.",
+    "alerta": "Pode causar azia em excesso."
+  },
+  "hortela+limao+agua": {
+    "descricao": "Hortelã fresca + suco de limão + água gelada.",
+    "efeito": "Bebida refrescante e digestiva.",
+    "risco": "Nenhum.",
+    "aplicacao": "Refresco natural ou mocktail.",
+    "alerta": "Pessoas com refluxo devem moderar."
+  },
+  "iogurte+frutas+mel": {
+    "descricao": "Iogurte natural + frutas picadas + mel.",
+    "efeito": "Sobremesa probiótica nutritiva.",
+    "risco": "Nenhum.",
+    "aplicacao": "Lanche saudável ou café da manhã.",
+    "alerta": "Diabéticos devem substituir mel."
+  },
+  "jabuticaba+agua+acucar": {
+    "descricao": "Jabuticabas + água + açúcar.",
+    "efeito": "Fermentação natural para produção de vinho.",
+    "risco": "Baixo (álcool natural).",
+    "aplicacao": "Vinho caseiro de jabuticaba.",
+    "alerta": "Consumo moderado do produto final."
+  },
+  "kiwi+acucar+agua": {
+    "descricao": "Kiwi picado + açúcar + água.",
+    "efeito": "Xarope frutado ou calda.",
+    "risco": "Baixo.",
+    "aplicacao": "Cobertura para sobremesas ou bebidas.",
+    "alerta": "Diabéticos devem evitar."
+  },
+  "leite+acucar+canela": {
+    "descricao": "Leite quente + açúcar + canela em pó.",
+    "efeito": "Bebida doce e aromática.",
+    "risco": "Baixo.",
+    "aplicacao": "Bebida reconfortante antes de dormir.",
+    "alerta": "Intolerantes à lactose devem substituir."
+  },
+  "manga+leite+acucar": {
+    "descricao": "Manga madura + leite + açúcar.",
+    "efeito": "Vitamina cremosa e nutritiva.",
+    "risco": "Baixo.",
+    "aplicacao": "Bebida energética natural.",
+    "alerta": "Pessoas com diabetes devem moderar."
+  },
+  "noz+moscada+leite+mel": {
+    "descricao": "Noz-moscada ralada + leite quente + mel.",
+    "efeito": "Bebida relaxante com propriedades sedativas.",
+    "risco": "Baixo (noz-moscada em excesso é tóxica).",
+    "aplicacao": "Remédio caseiro para insônia.",
+    "alerta": "Use no máximo 1/4 de colher de chá de noz-moscada."
   }
+
 }

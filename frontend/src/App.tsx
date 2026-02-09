@@ -1,6 +1,6 @@
 import React from "react";
-import PodeMestirurar from "./PodeMestirurar";
+import PodeMisturar from "./PodeMisturar";
 
 export default function App() {
-  return <PodeMestirurar />;
+  return <PodeMisturar />;
 }
