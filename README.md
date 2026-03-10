@@ -39,7 +39,7 @@ Uma aplicação web moderna e interativa para verificar a segurança de misturas
 - **Histórico de Pesquisas**: Últimas 5 buscas salvas localmente
 - **Busca por Substância**: Encontre todas as misturas contendo um ingrediente específico
 - **Filtros Dinâmicos**: Filtre misturas por nível de risco (nenhum, baixo, moderado, alto, extremo, letal)
-- **Mistura Aleatória**: 🎲 Botão para descobrir misturas interessantes aleatoriamente
+- **Mistura Aleatória**: Botão para descobrir misturas interessantes aleatoriamente
 - **Sistema de Notificações**: Toast notifications com 4 tipos (success, error, info, warning)
 - **Loading States**: Skeletons animados durante carregamento de dados
 - **Validação Inteligente**: Verifica entrada antes de enviar ao servidor
@@ -381,7 +381,7 @@ Busca avançada com múltiplos filtros (todos opcionais)
 
 #### Backend
 
-- ✨ **Banco de dados expandido**: Adicionadas 30 novas misturas (total: 97 misturas)
+- **Banco de dados expandido**: Adicionadas 30 novas misturas (total: 97 misturas)
   - Misturas culinárias (café+limão, mel+canela, banana+leite)
   - Misturas medicinais (gengibre+mel, aloe+mel, cúrcuma+pimenta)
   - Experimentos químicos (iodo+amido, sulfato+bário, cloreto+prata)
@@ -491,4 +491,4 @@ Esta aplicação é **apenas para fins informativos e educacionais**. Nunca real
 
 ---
 
-**Desenvolvido com amor para promover segurança e conhecimento químico**
+**Desenvolvido para fins educacionais e conhecimento químico**
